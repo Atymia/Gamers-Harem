@@ -1,45 +1,45 @@
 
 # Gamers'Harem
 
-Gamers'Harem è un sito web dedicato agli appassionati di videogiochi, offrendo una vasta gamma di giochi per diverse piattaforme come PC, PlayStation, Xbox e Nintendo. Gli utenti possono cercare, visualizzare dettagli e acquistare i loro giochi preferiti direttamente dal sito.
+Gamers'Harem is a website dedicated to video game enthusiasts, offering a wide range of games for multiple platforms such as PC, PlayStation, Xbox, and Nintendo. Users can search, view details, and purchase their favorite games directly from the site.
 
-## Linguaggi e Tecnologie Utilizzati:
+## Languages and Technologies Used:
 
 #### Server Side
-* Flask: Framework web leggero per Python.
-* MongoDB: Database NoSQL utilizzato per la gestione degli utenti e delle informazioni sui giochi.
+* Flask: Lightweight web framework for Python.
+* MongoDB: NoSQL database used for managing users and game information.
 * Python
 * Werkzeug
 * PyMongo
 
 #### Client Side:
-* HTML, CSS, JavaScript: Utilizzati per la struttura, lo stile e l'interattività del sito.
-* Bootstrap: Framework CSS per la progettazione responsiva.
-* Jinja2: Motore di templating per Python, utilizzato con Flask per generare dinamicamente le pagine HTML.
+* HTML, CSS, JavaScript: Used for the website structure, styling, and interactivity.
+* Bootstrap: CSS framework for responsive design.
+* Jinja2: Python templating engine used with Flask to dynamically generate HTML pages.
 
 * Integrazione di Pagamenti:
-* PayPal API: Integrato per consentire agli utenti di acquistare i giochi in modo sicuro.
+* PayPal API: Integrated to allow users to purchase games securely.
 
 * Service Worker:
-        Utilizzato per la registrazione di un Service Worker per abilitare la funzionalità di service worker e consentire l'accesso offline alle risorse del sito.
+        Implemented a Service Worker to enable offline access to website resources.
 
 ## Funzionalità Principali:
 
-* Registrazione e Login:
-        Gli utenti possono registrarsi, effettuare il login e gestire il proprio account.
+* Registration and Login:
+        Users can register, log in, and manage their accounts.
 
-* Ricerca e Navigazione:
-        Funzionalità di ricerca per trovare rapidamente i giochi desiderati.
-        Navigazione intuitiva tra diverse categorie di giochi.
+* Search and Navigation:
+        Search functionality to quickly find desired games
+Intuitive navigation across different game categories.
 
-* Dettagli e Acquisto:
-        Pagina dettagliata per ciascun gioco con informazioni complete.
-        Possibilità di acquistare tramite PayPal.
+* Game Details and Purchase:
+        Detailed pages for each game with complete information
+Ability to purchase games via PayPal.
 
-* Pagamenti:
-       Pagamento sicuro tramite integrazione con il sistema di pagamento PayPal.
+* Payments:
+       Secure payment integration through PayPal.
 
-Questo repository è stato creato a scopo universitario e utilizza immagini delle copertine di videogiochi per scopi puramente illustrativi. Si prega di leggere attentamente le seguenti linee guida per garantire il rispetto dei diritti d'autore e l'uso appropriato delle risorse.
+This repository was created for academic purposes and uses images of game covers for illustrative purposes only. Please read the guidelines carefully to ensure copyright compliance and proper use of resources.
 
 
 ## Authors
