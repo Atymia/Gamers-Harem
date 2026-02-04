@@ -43,14 +43,21 @@ This repository was created for academic purposes and uses images of game covers
 
 ## Images
 
-<img width="1162" height="1130" alt="1" src="https://github.com/user-attachments/assets/f84fe6aa-3a76-477d-bb1b-7f49a9b5732e" />
+<p align="center">
+  <img width="1162" height="1130" alt="1" src="https://github.com/user-attachments/assets/f84fe6aa-3a76-477d-bb1b-7f49a9b5732e" />
+</p>
 
-<img width="1162" height="1130" alt="2" src="https://github.com/user-attachments/assets/4fb31912-eeb5-4040-bdb4-040efb90fcf4" />
+<p align="center">
+  <img width="1162" height="1130" alt="2" src="https://github.com/user-attachments/assets/4fb31912-eeb5-4040-bdb4-040efb90fcf4" />
+</p>
 
-<img width="1162" height="1130" alt="3" src="https://github.com/user-attachments/assets/3220de14-4efd-4eb3-a910-0a6c00ee607f" />
+<p align="center">
+  <img width="1162" height="1130" alt="3" src="https://github.com/user-attachments/assets/3220de14-4efd-4eb3-a910-0a6c00ee607f" />
+</p>
 
-<img width="432" height="860" alt="6" src="https://github.com/user-attachments/assets/f7a73c67-4784-4800-b0e3-83dc1e075b62" />
-
+<p align="center">
+  <img width="432" height="860" alt="6" src="https://github.com/user-attachments/assets/f7a73c67-4784-4800-b0e3-83dc1e075b62" />
+</p>
 
 
 ## Authors
