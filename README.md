@@ -41,6 +41,17 @@ Ability to purchase games via PayPal.
 
 This repository was created for academic purposes and uses images of game covers for illustrative purposes only. Please read the guidelines carefully to ensure copyright compliance and proper use of resources.
 
+## Images
+
+<img width="1162" height="1130" alt="1" src="https://github.com/user-attachments/assets/f84fe6aa-3a76-477d-bb1b-7f49a9b5732e" />
+
+<img width="1162" height="1130" alt="2" src="https://github.com/user-attachments/assets/4fb31912-eeb5-4040-bdb4-040efb90fcf4" />
+
+<img width="1162" height="1130" alt="3" src="https://github.com/user-attachments/assets/3220de14-4efd-4eb3-a910-0a6c00ee607f" />
+
+<img width="432" height="860" alt="6" src="https://github.com/user-attachments/assets/f7a73c67-4784-4800-b0e3-83dc1e075b62" />
+
+
 
 ## Authors
 
